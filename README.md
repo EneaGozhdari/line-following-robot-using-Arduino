@@ -15,6 +15,9 @@ Wires (female-female, male-female) <br />
 ON/OFF button <br />
 Glue gun <br />
 
+
+**About the project :** 
+
 This code is for an Arduino robot that uses line following sensors, specifically the QTRSensors library, to follow a line on the ground. The robot uses two motors, controlled by the AFMotor library, to move along the line.
 
 The code starts by including the necessary libraries and declaring some variables such as the KP, KD, and the minimum and maximum speeds for the motors. It also defines the number of sensors and the timeout value.
